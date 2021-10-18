@@ -1,0 +1,19 @@
+D:\Software\GitHub\visualstudiolearning\Application One\Application One\bin\Debug\net5.0-windows\Application One.exe
+D:\Software\GitHub\visualstudiolearning\Application One\Application One\bin\Debug\net5.0-windows\Application One.deps.json
+D:\Software\GitHub\visualstudiolearning\Application One\Application One\bin\Debug\net5.0-windows\Application One.runtimeconfig.json
+D:\Software\GitHub\visualstudiolearning\Application One\Application One\bin\Debug\net5.0-windows\Application One.runtimeconfig.dev.json
+D:\Software\GitHub\visualstudiolearning\Application One\Application One\bin\Debug\net5.0-windows\Application One.dll
+D:\Software\GitHub\visualstudiolearning\Application One\Application One\bin\Debug\net5.0-windows\ref\Application One.dll
+D:\Software\GitHub\visualstudiolearning\Application One\Application One\bin\Debug\net5.0-windows\Application One.pdb
+D:\Software\GitHub\visualstudiolearning\Application One\Application One\obj\Debug\net5.0-windows\Application One.csproj.AssemblyReference.cache
+D:\Software\GitHub\visualstudiolearning\Application One\Application One\obj\Debug\net5.0-windows\Application_One.Form1.resources
+D:\Software\GitHub\visualstudiolearning\Application One\Application One\obj\Debug\net5.0-windows\Application One.csproj.GenerateResource.cache
+D:\Software\GitHub\visualstudiolearning\Application One\Application One\obj\Debug\net5.0-windows\Application One.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\GitHub\visualstudiolearning\Application One\Application One\obj\Debug\net5.0-windows\Application One.AssemblyInfoInputs.cache
+D:\Software\GitHub\visualstudiolearning\Application One\Application One\obj\Debug\net5.0-windows\Application One.AssemblyInfo.cs
+D:\Software\GitHub\visualstudiolearning\Application One\Application One\obj\Debug\net5.0-windows\Application One.csproj.CoreCompileInputs.cache
+D:\Software\GitHub\visualstudiolearning\Application One\Application One\obj\Debug\net5.0-windows\Application One.dll
+D:\Software\GitHub\visualstudiolearning\Application One\Application One\obj\Debug\net5.0-windows\ref\Application One.dll
+D:\Software\GitHub\visualstudiolearning\Application One\Application One\obj\Debug\net5.0-windows\Application One.pdb
+D:\Software\GitHub\visualstudiolearning\Application One\Application One\obj\Debug\net5.0-windows\Application One.genruntimeconfig.cache
+D:\Software\GitHub\visualstudiolearning\Application One\Application One\obj\Debug\net5.0-windows\Application_One.Properties.Resources.resources
