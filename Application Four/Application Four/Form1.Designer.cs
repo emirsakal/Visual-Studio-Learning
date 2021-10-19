@@ -35,7 +35,7 @@ namespace Application_Four
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
-            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.AsalSayılar = new System.Windows.Forms.ListBox();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -46,9 +46,9 @@ namespace Application_Four
             this.label1.Font = new System.Drawing.Font("Vivaldi", 48F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point);
             this.label1.Location = new System.Drawing.Point(142, 18);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(533, 76);
+            this.label1.Size = new System.Drawing.Size(487, 76);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Asal Sayıları Bulma";
+            this.label1.Text = "Asal Sayı Kontrol";
             // 
             // groupBox1
             // 
@@ -56,7 +56,7 @@ namespace Application_Four
             this.groupBox1.Controls.Add(this.textBox1);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.button1);
-            this.groupBox1.Controls.Add(this.listBox1);
+            this.groupBox1.Controls.Add(this.AsalSayılar);
             this.groupBox1.Location = new System.Drawing.Point(12, 97);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(776, 341);
@@ -102,14 +102,14 @@ namespace Application_Four
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // listBox1
+            // AsalSayılar
             // 
-            this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 15;
-            this.listBox1.Location = new System.Drawing.Point(431, 17);
-            this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(339, 319);
-            this.listBox1.TabIndex = 0;
+            this.AsalSayılar.FormattingEnabled = true;
+            this.AsalSayılar.ItemHeight = 15;
+            this.AsalSayılar.Location = new System.Drawing.Point(431, 17);
+            this.AsalSayılar.Name = "AsalSayılar";
+            this.AsalSayılar.Size = new System.Drawing.Size(339, 319);
+            this.AsalSayılar.TabIndex = 0;
             // 
             // Form1
             // 
@@ -132,7 +132,7 @@ namespace Application_Four
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.ListBox AsalSayılar;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;

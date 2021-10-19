@@ -37,7 +37,7 @@ namespace Application_Four
                         return;
                     }
                 }
-                listBox1.Items.Add(sayi.ToString());
+                AsalSayılar.Items.Add(sayi.ToString());
                 label3.Text = "Asal Sayıdır.";
             }
         }

@@ -17,3 +17,22 @@ C:\Users\emirh\source\repos\Application Four\Application Four\obj\Debug\net5.0-w
 C:\Users\emirh\source\repos\Application Four\Application Four\obj\Debug\net5.0-windows\ref\Application Four.dll
 C:\Users\emirh\source\repos\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.pdb
 C:\Users\emirh\source\repos\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.genruntimeconfig.cache
+D:\Software\GitHub\visualstudiolearning\Application Four\Application Four\bin\Debug\net5.0-windows\Application Four.exe
+D:\Software\GitHub\visualstudiolearning\Application Four\Application Four\bin\Debug\net5.0-windows\Application Four.deps.json
+D:\Software\GitHub\visualstudiolearning\Application Four\Application Four\bin\Debug\net5.0-windows\Application Four.runtimeconfig.json
+D:\Software\GitHub\visualstudiolearning\Application Four\Application Four\bin\Debug\net5.0-windows\Application Four.runtimeconfig.dev.json
+D:\Software\GitHub\visualstudiolearning\Application Four\Application Four\bin\Debug\net5.0-windows\Application Four.dll
+D:\Software\GitHub\visualstudiolearning\Application Four\Application Four\bin\Debug\net5.0-windows\ref\Application Four.dll
+D:\Software\GitHub\visualstudiolearning\Application Four\Application Four\bin\Debug\net5.0-windows\Application Four.pdb
+D:\Software\GitHub\visualstudiolearning\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.csproj.AssemblyReference.cache
+D:\Software\GitHub\visualstudiolearning\Application Four\Application Four\obj\Debug\net5.0-windows\Application_Four.Form1.resources
+D:\Software\GitHub\visualstudiolearning\Application Four\Application Four\obj\Debug\net5.0-windows\Application_Four.Properties.Resources.resources
+D:\Software\GitHub\visualstudiolearning\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.csproj.GenerateResource.cache
+D:\Software\GitHub\visualstudiolearning\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\GitHub\visualstudiolearning\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.AssemblyInfoInputs.cache
+D:\Software\GitHub\visualstudiolearning\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.AssemblyInfo.cs
+D:\Software\GitHub\visualstudiolearning\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.csproj.CoreCompileInputs.cache
+D:\Software\GitHub\visualstudiolearning\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.dll
+D:\Software\GitHub\visualstudiolearning\Application Four\Application Four\obj\Debug\net5.0-windows\ref\Application Four.dll
+D:\Software\GitHub\visualstudiolearning\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.pdb
+D:\Software\GitHub\visualstudiolearning\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.genruntimeconfig.cache
