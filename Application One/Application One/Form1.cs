@@ -19,7 +19,7 @@ namespace Application_One
 
         private void button1_Click(object sender, EventArgs e)
         {
-            listBox1.Text = (textBox4.Text + " " + textBox3.Text + " , " + maskedTextBox4.Text + " , " + maskedTextBox3.Text + " , Yolculuk Bilgileri: " + comboBox1.Text + " - " + comboBox2.Text + " , " + maskedTextBox2.Text + " , " + maskedTextBox1.Text);
+            listBox1.Items.Add(textBox4.Text + " " + textBox3.Text + " , " + maskedTextBox4.Text + " , " + maskedTextBox3.Text + " , Yolculuk Bilgileri: " + comboBox1.Text + " - " + comboBox2.Text + " , " + maskedTextBox2.Text + " , " + maskedTextBox1.Text);
         }
     }
 }

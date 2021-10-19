@@ -1,0 +1,19 @@
+C:\Users\emirh\source\repos\Application Four\Application Four\bin\Debug\net5.0-windows\Application Four.exe
+C:\Users\emirh\source\repos\Application Four\Application Four\bin\Debug\net5.0-windows\Application Four.deps.json
+C:\Users\emirh\source\repos\Application Four\Application Four\bin\Debug\net5.0-windows\Application Four.runtimeconfig.json
+C:\Users\emirh\source\repos\Application Four\Application Four\bin\Debug\net5.0-windows\Application Four.runtimeconfig.dev.json
+C:\Users\emirh\source\repos\Application Four\Application Four\bin\Debug\net5.0-windows\Application Four.dll
+C:\Users\emirh\source\repos\Application Four\Application Four\bin\Debug\net5.0-windows\ref\Application Four.dll
+C:\Users\emirh\source\repos\Application Four\Application Four\bin\Debug\net5.0-windows\Application Four.pdb
+C:\Users\emirh\source\repos\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.csproj.AssemblyReference.cache
+C:\Users\emirh\source\repos\Application Four\Application Four\obj\Debug\net5.0-windows\Application_Four.Form1.resources
+C:\Users\emirh\source\repos\Application Four\Application Four\obj\Debug\net5.0-windows\Application_Four.Properties.Resources.resources
+C:\Users\emirh\source\repos\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.csproj.GenerateResource.cache
+C:\Users\emirh\source\repos\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirh\source\repos\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.AssemblyInfoInputs.cache
+C:\Users\emirh\source\repos\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.AssemblyInfo.cs
+C:\Users\emirh\source\repos\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.csproj.CoreCompileInputs.cache
+C:\Users\emirh\source\repos\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.dll
+C:\Users\emirh\source\repos\Application Four\Application Four\obj\Debug\net5.0-windows\ref\Application Four.dll
+C:\Users\emirh\source\repos\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.pdb
+C:\Users\emirh\source\repos\Application Four\Application Four\obj\Debug\net5.0-windows\Application Four.genruntimeconfig.cache
