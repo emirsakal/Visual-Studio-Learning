@@ -19,7 +19,43 @@ namespace Application_Two
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // Dönüşümlerden önce Convert komutu kullanılır. Örneğin: sayi = Convert.ToInt16(textBox1.Text);
+            double sayi1, sayi2, sayi3, sayi4, sonuc;
+
+            sayi1 = Convert.ToDouble(textBox1.Text);
+            sayi2 = Convert.ToDouble(textBox2.Text);
+            sayi3 = Convert.ToDouble(textBox3.Text);
+            sayi4 = Convert.ToDouble(textBox4.Text);
+
+            if (radioButton1.Checked == true)
+            {
+                sonuc = (sayi1 + sayi2 + sayi3 + sayi4);
+                label6.Text = sonuc.ToString();
+            }
+            if (radioButton2.Checked == true)
+            {
+                sonuc = (sayi1 - sayi2 - sayi3 - sayi4);
+                label6.Text = sonuc.ToString();
+            }
+            if (radioButton3.Checked == true)
+            {
+                sonuc = (sayi1 * sayi2 * sayi3 * sayi4);
+                label6.Text = sonuc.ToString();
+            }
+            if (radioButton4.Checked == true)
+            {
+                sonuc = (sayi1 / sayi2 / sayi3 / sayi4);
+                label6.Text = sonuc.ToString();
+            }
+            if (radioButton5.Checked == true)
+            {
+                sonuc = (sayi1 + sayi2 + sayi3 + sayi4) / 4;
+                label6.Text = sonuc.ToString();
+            }
+        }
+
+        /*  BU BÖLÜM ÖĞRENİM AŞAMASINDA YAZDIĞIM KISIMDI. DÖNÜP BAKMAK İSTERİM DİYE BIRAKTIM.
+             
+            Dönüşümlerden önce Convert komutu kullanılır. Örneğin: sayi = Convert.ToInt16(textBox1.Text);
             string x = "Selam";
             int y = 24;
             double z = 8.9;
@@ -46,6 +82,6 @@ namespace Application_Two
             label10.Text = floatsayi.ToString();
             label11.Text = ondaliklisayi.ToString();
             label12.Text = durum.ToString();
-        }
+            */
     }
 }
